@@ -19,5 +19,6 @@
 **Data Visualization**
 
 Power BI
-*[Data Professional Survey](https://github.com/yuan-code/Data_Visualization#data-professional-survey)
-*[HR Report](https://github.com/yuan-code/Data_Visualization#hr-report)
+
+* [Data Professional Survey](https://github.com/yuan-code/Data_Visualization#data-professional-survey)
+* [HR Report](https://github.com/yuan-code/Data_Visualization#hr-report)
