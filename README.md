@@ -27,7 +27,7 @@ Power BI
 Tableau
 
 * [Covid-19 Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/CovidDashboardSeptember2023Ourworldindata/Dashboard1)
-* [View Flu Shot Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ImmunizationDashboard_17059437063380/Dashboard1)
-* [View Emergency Room Visit Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ERDashboard_17056878215500/Dashboard1)
-* [View Encounter Dashboard 1](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard1/Dashboard2)
-* [View Encounter Dashboard 2](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard2/Dashboard1)
+* [Flu Shot Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ImmunizationDashboard_17059437063380/Dashboard1)
+* [Emergency Room Visit Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ERDashboard_17056878215500/Dashboard1)
+* [Encounter Dashboard 1](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard1/Dashboard2)
+* [Encounter Dashboard 2](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard2/Dashboard1)
