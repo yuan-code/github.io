@@ -15,6 +15,7 @@
 **SQL Projects**
 * [Covid-19 Data in SQL and Visualization in Tableau](https://github.com/yuan-code/SQL_Project#covid-19-data-in-sql-and-visualization-in-tableau)
 * [Housing Data Cleaning and analysis in SQL](https://github.com/yuan-code/SQL_Project#housing-data-cleaning-and-analysis-in-sql)
+* [Healthcare Data in SQL and Visualization in Tableau](https://github.com/yuan-code/SQL_Project/blob/main/README.md#healthcare-data-in-sql-and-visualization-in-tableau)
 
 **Data Visualization**
 
@@ -22,3 +23,11 @@ Power BI
 
 * [Data Professional Survey](https://github.com/yuan-code/Data_Visualization#data-professional-survey)
 * [HR Report](https://github.com/yuan-code/Data_Visualization#hr-report)
+
+Tableau
+
+* [Covid-19 Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/CovidDashboardSeptember2023Ourworldindata/Dashboard1)
+* [View Flu Shot Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ImmunizationDashboard_17059437063380/Dashboard1)
+* [View Emergency Room Visit Dashboard](https://public.tableau.com/app/profile/yuan.hong1407/viz/ERDashboard_17056878215500/Dashboard1)
+* [View Encounter Dashboard 1](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard1/Dashboard2)
+* [View Encounter Dashboard 2](https://public.tableau.com/app/profile/yuan.hong1407/viz/EncounterDashboard2/Dashboard1)
